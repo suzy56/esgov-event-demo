@@ -9,6 +9,8 @@
   "dependencies": {
     "antd": "^3.9.2",
     "babel-plugin-import": "^1.9.1",
+    "babel-polyfill": "6.20.0",
+    "babel-runtime": "6.20.0",
     "dva": "^2.4.0",
     "mockjs": "^1.0.1-beta3",
     "react": "^16.2.0",
